@@ -2,7 +2,7 @@
 ## A less biased experimental hybrid movie recommendation system based on ratings 
 Final assignment of Infnet's Data Science Bootcamp (MIT - Data Science, Data Analytics & Machine Learning).
 
-**In a nutshell**: an experimental collaborative movie recommendation system developed on pyhton using Kmeans, Fuzzy C-Means and SVD. The recommendation system was named Sincere and outlined promising results in **attacking data sparsity and bursting the bubble of traditional recommendation systems**.  
+**In a nutshell**: an experimental collaborative movie recommendation system developed on pyhton using Kmeans, Fuzzy C-Means and SVD. The recommendation system was named Sincere and outlined promising results in **attacking data sparsity by bursting the bubble of traditional recommendation systems**.  
 
 The files of this repository are divided in the following folders:
 
