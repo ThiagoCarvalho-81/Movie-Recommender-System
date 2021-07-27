@@ -28,5 +28,5 @@ The files of this project are stored divided in the following folders:
 
 
 
-This is a final bootcamp work, implemented in pairs. Renan([@renanbdr](https://github.com/renanbdr)) and I worked together. 
+This is a final bootcamp project, implemented in pairs. Renan([@renanbdr](https://github.com/renanbdr)) and I worked together. 
 The scope of the work was, in a 2-week period, to generate a differentiated experimental recommender system using a public dataset and at least 3 algorithms.
